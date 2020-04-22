@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1601" started-at="2020-04-22T08:53:35Z" finished-at="2020-04-22T08:53:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1601" started-at="2020-04-22T08:53:35Z" finished-at="2020-04-22T08:53:36Z">
+      <class name="exceldatadriven.GetDataFromExcelTest">
+        <test-method status="PASS" signature="testPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:exceldatadriven.GetDataFromExcelTest@6093dd95]" name="testPost" duration-ms="1078" started-at="2020-04-22T08:53:35Z" data-provider="DataForPost" finished-at="2020-04-22T08:53:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ryanshao]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[haohao]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+        <test-method status="PASS" signature="testPost(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:exceldatadriven.GetDataFromExcelTest@6093dd95]" name="testPost" duration-ms="24" started-at="2020-04-22T08:53:36Z" data-provider="DataForPost" finished-at="2020-04-22T08:53:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IrisDu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dandan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- exceldatadriven.GetDataFromExcelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
