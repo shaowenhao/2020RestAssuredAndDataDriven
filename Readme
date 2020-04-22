@@ -1,0 +1,7 @@
+这个项目是学习的时候建的Mvn Project
+引入了TestNG Json simple apache poi 等包
+可以新建一个 MVN project:
+	<groupId>RestAssuredProject</groupId>
+	<artifactId>RestAssuredProject</artifactId>
+  
+  因为提交的时候没有项目目录，可以自己建，然后对应的文件拷贝过去
